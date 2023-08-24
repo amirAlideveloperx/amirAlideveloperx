@@ -1,4 +1,4 @@
 # Hi i'm Amir.
 -------
-- I am Web Developer
-- live in Iran
+* I am Web Developer
+* live in Iran
