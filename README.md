@@ -7,8 +7,3 @@ I'm Amir, a passionate developer exploring a variety of technologies and sharing
 - 💬 Bio: I'm Amir
 - 🗓️ Joined GitHub: May 2022
 - 👥 Followers: 8 | Following: 14
-
-## 📚 My Repositories
-
-Explore my public projects and contributions.  
-(Your profile currently contains 9 public repositories.)
