@@ -12,21 +12,3 @@ I'm Amir, a passionate developer exploring a variety of technologies and sharing
 
 Explore my public projects and contributions.  
 (Your profile currently contains 9 public repositories.)
-
----
-
-### ⭐ Highlights
-
-- Variety of projects demonstrating my growth as a developer
-- Open to collaboration and learning new things
-
----
-
-## 📫 Connect with Me
-
-- [GitHub Profile](https://github.com/amirAlideveloperx)
-
----
-
-Thanks for visiting!  
-Feel free to explore my repositories and reach out for collaboration.
